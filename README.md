@@ -109,7 +109,7 @@ Abra os arquivos .html no navegador ou execute os scripts no console (DevTools).
 
 
 
-&nbsp;Status
+Status
 
 🟢 Em andamento — novos exercícios serão adicionados conforme avanço no curso.
 
